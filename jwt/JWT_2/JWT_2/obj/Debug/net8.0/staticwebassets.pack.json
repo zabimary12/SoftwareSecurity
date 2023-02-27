@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Лабы 4-ртый курс\\2 семестр\\Безпека ПЗ\\Лабораторна номер 1\\jwt\\JWT_2\\JWT_2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JWT_2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JWT_2.props",
+      "PackagePath": "build\\JWT_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JWT_2.props",
+      "PackagePath": "buildMultiTargeting\\JWT_2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JWT_2.props",
+      "PackagePath": "buildTransitive\\JWT_2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

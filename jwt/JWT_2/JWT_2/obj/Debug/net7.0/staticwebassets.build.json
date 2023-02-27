@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UrMxicVu7XgiC3dTZqimHxES/WHXyItIPbmSSUjHX+0=",
+  "Source": "JWT_2",
+  "BasePath": "_content/JWT_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JWT_2\\wwwroot",
+      "Source": "JWT_2",
+      "ContentRoot": "D:\\Лабы 4-ртый курс\\2 семестр\\Безпека ПЗ\\Лабораторна номер 1\\jwt\\JWT_2\\JWT_2\\wwwroot\\",
+      "BasePath": "_content/JWT_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Лабы 4-ртый курс\\2 семестр\\Безпека ПЗ\\Лабораторна номер 1\\jwt\\JWT_2\\JWT_2\\wwwroot\\index.html",
+      "SourceId": "JWT_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Лабы 4-ртый курс\\2 семестр\\Безпека ПЗ\\Лабораторна номер 1\\jwt\\JWT_2\\JWT_2\\wwwroot\\",
+      "BasePath": "_content/JWT_2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
